@@ -1,6 +1,6 @@
 <h3 align="center">Programmer</h3>
 
-- 📝 I regularly write articles on [https://www.cod3r.com.br/](https://www.cod3r.com.br/)
+- 📝 I regularly write articles on [https://blog.cod3r.com.br/author/gabriel-lorenzo/](https://blog.cod3r.com.br/author/gabriel-lorenzo/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
